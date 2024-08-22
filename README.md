@@ -19,6 +19,7 @@ Please feel free to drop me an email if you want to discuss relevant research to
 
 - **2024-08:** First submission: An article about PEFT is being submitted to AAAI.
 - **2024-07:** Participate in CCF Chip 2024.
+- **2024-03:** The cloud platform SIDE developed by us was successfully applied to the teaching of computer organization principles (seminar) at the University of Chinese Academy of Sciences!
 
 ---
 
