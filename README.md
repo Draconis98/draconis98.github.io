@@ -9,7 +9,7 @@ Email: [hanjl2022 [AT] shanghaitech.edu.cn](hanjl2022@shanghaitech.edu.cn)
 
 ## About Me
 
-Jialong Han is a graduate student at the ShanghaiTech University and a research intern at Chinese Academy of Sciences Jisuan Institute of Technology. He completed his Bachelor degree of Engineering in Communications Engineering (Electric Power Communications) at the Nanjing Institute of Technology in 2021. His main research interest is in Natural Language Processing, especially in the field of Parameter-efficient fine-tuning (PEFT) of Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
+Jialong Han is a graduate student at the ShanghaiTech University and a research intern at Institute of Computing Technology, Chinese Academy of Sciences. He completed his Bachelor degree of Engineering in Communications Engineering (Electric Power Communications) at the Nanjing Institute of Technology in 2021. His main research interest is in Natural Language Processing, especially in the field of Parameter-efficient fine-tuning (PEFT) of Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
 
 Please feel free to drop me an email if you want to discuss relevant research topics or potential collaborations!
 
